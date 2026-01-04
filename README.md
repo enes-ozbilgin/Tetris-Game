@@ -53,9 +53,6 @@ To run this game, you need a C compiler installed on your machine.
 | **Space** | Hard Drop / Pause |
 | **Esc / Q** | Quit Game |
 
-## 📸 Screenshots
-
-*(Add a screenshot of your terminal window here to show what the game looks like!)*
 
 ## 📄 Documentation
 
